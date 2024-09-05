@@ -76,3 +76,15 @@ Bu projede kullanılan teknolojiler:
 *   Sensör
 *   Devre tahtası
 *   Jumper kablolar
+
+<h2>💡 Birkaç ayarlamayla bu projeyi aşağıdaki kartlarla da yapabilirsiniz.</h2>
+
+*   Arduino Nano
+*   STM32 Series
+*   Raspberry Pi Pico
+*   Teensy
+*   nRF52840
+*   ESP8266
+*   ESP32
+*   Adafruit Feather RP2040
+*   SparkFun RP2040 Thing Plus
