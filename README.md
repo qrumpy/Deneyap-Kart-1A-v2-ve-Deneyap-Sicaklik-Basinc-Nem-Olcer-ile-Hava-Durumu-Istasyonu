@@ -16,7 +16,7 @@
 
 <p>1. Arduino IDE indirin.</p>
 
-<p>2. Arduino IDE &gt; Tercihler &gt; Ek Kart Yöneticileri</p>
+<p>2. Arduino IDE &gt; Tercihler &gt; Ek Kart Yöneticisi URL'leri</p>
 
 ```
 https://raw.githubusercontent.com/deneyapkart/deneyapkart-arduino-core/master/package_deneyapkart_index.json
