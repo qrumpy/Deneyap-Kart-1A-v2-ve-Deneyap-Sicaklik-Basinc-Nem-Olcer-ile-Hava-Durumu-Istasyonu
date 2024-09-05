@@ -1,0 +1,1 @@
+# Deneyap-Kart-1A-v2-ve-Deneyap-Sicaklik-Basinc-Nem-Olcer-ile-Hava-Durumu-Istasyonu
