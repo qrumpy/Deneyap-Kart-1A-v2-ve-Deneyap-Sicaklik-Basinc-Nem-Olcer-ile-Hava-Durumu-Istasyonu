@@ -4,7 +4,7 @@
 
 <p id="description">Bu proje Deneyap Kart 1A v2 ve Deneyap Sıcaklık Basınç Nem Ölçer ile yapılan hava durumu istasyonudur. Veriler site ve telegram botu üzerinde gösterilmektedir.</p><br>
 
-<h2>Project Screenshots:</h2>
+<h2>Proje Ekran Görüntüleri:</h2>
 
 <img src="https://snipboard.io/1eyx4N.jpg" alt="project-screenshot">
 
@@ -12,7 +12,7 @@
 
 <img src="https://snipboard.io/Ds2w01.jpg" alt="project-screenshot">
 
-<br><h2>🛠️ Installation Steps:</h2>
+<br><h2>🛠️ Kurulum Adımları:</h2>
 
 <p>1. Arduino IDE indirin.</p>
 
@@ -66,10 +66,12 @@ Deneyap Kart 1A v2 - Deneyap Sıcaklık Nem Basınç Ölçer - Devre Tahtası - 
   
 <h2>💻 Built with</h2>
 
-Technologies used in the project:
+Bu projede kullanılan teknolojiler:
 
 *   C++
 *   C
+*   Telegram Botu
+*   Web sitesi
 *   Mikroişlemci
 *   Sensör
 *   Devre tahtası
