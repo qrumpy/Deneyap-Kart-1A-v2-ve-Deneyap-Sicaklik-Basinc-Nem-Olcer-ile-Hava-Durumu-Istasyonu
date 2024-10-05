@@ -8,7 +8,7 @@
 
 <img src="https://snipboard.io/1eyx4N.jpg" alt="project-screenshot">
 
-<img src="https://snipboard.io/hQTLr6.jpg" alt="project-screenshot">
+<img src="https://snipboard.io/icswXA.jpg" alt="project-screenshot">
 
 <img src="https://snipboard.io/Ds2w01.jpg" alt="project-screenshot">
 
